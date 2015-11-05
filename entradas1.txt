@@ -1,0 +1,16 @@
+ENTRADAS EXEMPLO EXERCICIO 1 --- SAIDAS
+1 ---quantos elementos deseja adicionar
+4 ---entre a chave do elemento 1
+56 ---entre a chave do elemento 2
+123 ---entre a chave do elemento 3
+2 ---entre a chave do elemento 4
+43 --- escolha novamente
+2 --- entre a chave a ser deletada
+56 ---escolha novamente
+3 --- entre o valor a ser buscado
+56 --- vish! elemento nao esta na arvore
+4 --- 43 2 123
+5 ---2 43 123 
+6 ---123 2 43
+7 ---[123[2[]][43[][]][]]
+8 --- TCHAU

@@ -1,0 +1,32 @@
+3
+zé
+carlos
+jose
+jose
+cida
+mari
+carlos
+henrique
+paco
+1
+paco
+zezin
+cidin
+2
+4
+saida:
+[ze
+carlos jose
+cida mari heneique paco
+zezin cidin]
+3
+jose 
+saida:
+[cida mari]
+4 
+saida:
+[
+[ze[jose[cida][mari]][carlos[paco[cidin][zezin]][henrique]]
+]
+5
+carlos zezin (saida: 2)
